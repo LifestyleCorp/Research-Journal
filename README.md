@@ -1,6 +1,5 @@
-# Research-Journal
 
-## Research journal is a open source crowd sourced AI driven framework for building SOTA gold standard medical research journals for all specialty
+# Research journal is a open source crowd sourced AI driven framework for building SOTA gold standard medical research pre-print journals for all specialty
 
 ## List of problems we are solving
 
@@ -206,7 +205,9 @@ Traditional academic publishing models frequently resist the integration of prep
 **Problem Statement:**  
 Access to specialized research tools and facilities is often restricted by high costs, limited availability, and geographical constraints, preventing researchers from conducting advanced experiments and utilizing cutting-edge technologies essential for their studies.
 
-## List of solutions we are implementing
+-------------------------------------------------
+
+# List of solutions we are implementing
 
 Creating a series of specialized preprint journals for each medical specialty is an innovative approach to addressing the myriad of challenges in the current research ecosystem. To design these journals effectively, it's essential to integrate solutions that tackle the identified problems comprehensively. Below is a detailed, creative, and strategic plan to build such preprint journals, ensuring they address each problem effectively.
 
@@ -522,7 +523,10 @@ Creating a series of specialized preprint journals for each medical specialty is
 By meticulously addressing each of the identified problems through innovative features, robust governance, and community-centric strategies, the proposed network of specialized preprint journals can revolutionize the research publishing landscape in the medical field. This comprehensive approach ensures that the journals not only mitigate existing challenges but also foster an environment conducive to ethical, accessible, and impactful scientific research.
 
 
-## How to Fund the Project
+-----------------------------------------------------------------
+
+
+# How to Fund the Project
 
 Funding a network of specialized preprint journals through advertisers is a viable strategy, especially when executed thoughtfully to maintain the integrity and user experience of the journals. Here are **creative and genius strategies** to effectively leverage advertising as a funding source while ensuring that the journals remain credible, accessible, and valuable to the medical research community:
 
