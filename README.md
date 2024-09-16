@@ -1,5 +1,9 @@
 
-# Research journal is a open source crowd sourced AI driven framework for building SOTA gold standard medical research pre-print journals for all specialty
+# Research journal is a 
+# - open-source 
+# - crowd-sourced 
+# - AI driven 
+# - framework for building gold standard medical research pre-print journals for all specialty
 
 ## List of problems we are solving
 
